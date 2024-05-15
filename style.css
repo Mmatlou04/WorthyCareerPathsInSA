@@ -3,5 +3,6 @@
     .card-body {background-color: #F8F9FA;}
 body{ background-color: rgb(198, 181, 155);margin: 0%;}
 
-h1{font-size: 60px;}
+h1{font-size: 60px; margin: 30px;}
 p{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+a{text-decoration: none;} 
